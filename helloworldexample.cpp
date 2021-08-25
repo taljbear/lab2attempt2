@@ -24,3 +24,12 @@ int hello1Function(stringname1)
 	cout << "hello World "<< name1 << endl;
 	return0;
 }
+
+Lab2/** hello2Function.cpp**/
+#include <iostream> 
+using namespace std;
+int hello2Function(stringname2)
+{
+	cout << "hello World "<< name2 << endl;
+	return0;
+}
